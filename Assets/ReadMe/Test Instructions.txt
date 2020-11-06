@@ -1,0 +1,37 @@
+VFX Kinship Test
+
+The test is very simple. Create Visual Effect for the attacks of these two characters.
+
+
+---------------Footsoldier---------------------------
+
+1) Create a Slash Effect for both A and B variations.
+
+2) Create a Hit Effect to give the feedback that the attack was successful.
+
+
+
+---------------Angel----------------------------------
+
+1) Create a Preparation Effect that indicates the timming of when the strike is about to happen.
+
+2) Create a Shoot Effect that indicates that the attack has been fired.
+
+3) Create a Projectile Effect for the arrow that is shot.
+
+4) Create a Hit Effect to give the feedback that the attack was successful.
+
+
+--------------------Delivery-------------------------------
+
+All VFX should be saved as diferent Prefabs in this project.
+
+After you are done with the test. Your can re-send me this project.
+
+--------------------Tips-------------------------------
+
+Try to use as much of your knowledge in VFX development. Make use of textures, meshes, shaders, particle systems, animations, timelines everything that you think
+that will make your effect look as good as possible. You can download new packages like Shader Graph, to develop your own Shaders as well.
+
+
+Wish you all Good Luck. And hope to see more of your work soon!
